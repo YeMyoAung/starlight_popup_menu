@@ -1,0 +1,16 @@
+name: starlight_popup_menu
+description: Starlight Popup Menu is a popup menu Widget.
+homepage: https://github.com/YeMyoAung/starlight_popup_menu.git
+
+version: 1.0.0+0
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
